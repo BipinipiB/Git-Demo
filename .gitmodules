@@ -1,3 +1,6 @@
 [submodule ".cursor/rules-shared"]
 	path = .cursor/rules-shared
 	url = https://github.com/BipinipiB/cursor-rules-governance-demo.git
+[submodule "cursor-rules"]
+	path = cursor-rules
+	url = https://github.com/Bipinipib/cursor-rules-governance-demo.git
